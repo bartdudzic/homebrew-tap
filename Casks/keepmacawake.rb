@@ -1,6 +1,6 @@
 cask "keepmacawake" do
-  version "1.0.11"
-  sha256 "0a9ebd951a5b3836439abf140da9a2c04c2c09a4937ebe29e783b03d61d7731e"
+  version "1.0.12"
+  sha256 "8912053288367596adc0b8e425af72ca18e8d690519064da6ec041282778425c"
 
   url "https://github.com/bartdudzic/keepmacawake/releases/download/v#{version}/KeepMacAwake-#{version}-arm64.pkg"
   name "Keep Mac Awake"
